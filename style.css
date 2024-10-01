@@ -411,9 +411,15 @@ footer li {
   }
 
   .newsletter-form input {
-    width: 100px;
+    width: 150px;
+    font-size: 12px;
   }
 
+  .testamoionals-section-img i {
+    width: 20px;
+    padding: 5px;
+  }
+  
 
 }
 
