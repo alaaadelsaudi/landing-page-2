@@ -413,6 +413,13 @@ footer li {
   .newsletter-form input {
     width: 100px;
   }
+.testamoionals-section-img i {
+    width: 20px;
+    padding: 5px;
+  }
+  .newsletter-form {
+    left: 40px;
+  }
 
 
 }
