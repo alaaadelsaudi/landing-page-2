@@ -414,6 +414,13 @@ footer li {
     width: 150px;
     font-size: 12px;
   }
+.testamoionals-section-img i {
+    width: 20px;
+    padding: 5px;
+  }
+  .newsletter-form {
+    left: 40px;
+  }
 
   .testamoionals-section-img i {
     width: 20px;
